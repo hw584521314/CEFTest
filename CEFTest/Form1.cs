@@ -16,9 +16,7 @@ namespace CEFTest
         public Form1()
         {
             InitializeComponent();
-            InitBrower();
-
-            
+            InitBrower();           
             
             
         }
