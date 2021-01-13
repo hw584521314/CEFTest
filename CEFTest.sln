@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEFTest", "CEFTest\CEFTest.csproj", "{9B8ADE99-478E-41CA-A545-8569B15940D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "CEFTest\Student.csproj", "{9B8ADE99-478E-41CA-A545-8569B15940D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{69A54499-463C-4F22-B89C-AF7D6AED2B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teacher", "Teacher\Teacher.csproj", "{AF552127-92B8-4143-9397-02CACD5B94B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{9B8ADE99-478E-41CA-A545-8569B15940D8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9B8ADE99-478E-41CA-A545-8569B15940D8}.Release|x64.ActiveCfg = Release|x64
 		{9B8ADE99-478E-41CA-A545-8569B15940D8}.Release|x64.Build.0 = Release|x64
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Debug|x64.Build.0 = Debug|Any CPU
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Release|x64.ActiveCfg = Release|Any CPU
+		{69A54499-463C-4F22-B89C-AF7D6AED2B3D}.Release|x64.Build.0 = Release|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Debug|x64.Build.0 = Debug|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Release|x64.ActiveCfg = Release|Any CPU
+		{AF552127-92B8-4143-9397-02CACD5B94B2}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
